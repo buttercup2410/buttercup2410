@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - **Interests**: Art, Food, Books, Music, and Movies
 - **Tech Stack**: Automation Testing, Database Testing, UI Testing, Functional Testing, JavaScript, Java, Node.js, Express.js, React Native, Swift, Cypress, Selenium, HTML, CSS, MongoDB, Firebase, SQL
 
-## 🌻 Featured Projects
+## 🌼 Featured Projects
  
  [Farm2You](https://github.com/DeepigaSR/Farm2You)
 - **Description**: React Native app connecting farmers and consumers to local fresh produce with features like inventory management and weather-based crop advisory
