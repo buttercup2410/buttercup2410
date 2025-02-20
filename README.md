@@ -24,7 +24,7 @@ Hi there! I'm a student at UNC Charlotte, pursing my Masters in Information Tech
 - **Tech Stack**: Automation Testing, Database Testing, UI Testing, Functional Testing, JavaScript, Java, Node.js, Express.js, React Native, Swift, Cypress, Selenium, HTML, CSS, MongoDB, Firebase, SQL
 
 ## 🌟 Featured Projects
- Farm2You
+ [Farm2You](https://github.com/DeepigaSR/Farm2You)
 - **Description**: React Native app connecting farmers and consumers to local fresh produce with features like inventory management and weather-based crop advisory
 - **Tech Stack**: React Native, Expo Router, Firebase, Weather API
 - **Achievement**: Won Best Use of Gen AI award at Pearl Hacks 2025
