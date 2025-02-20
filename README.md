@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi there! I'm a student at UNC Charlotte, pursing my Masters in Information Technology. I have work experience as a Senior Quality Engineer of three years. I like working on building creative user interfaces and developing innovative applications.
+Hi there! I'm a student at UNC Charlotte, pursing my Masters in Information Technology. I have work experience as a Senior Quality Engineer of three years. I like working on building creative user interfaces and developing innovative applications.
 
 ## 👩‍💻 About Me
 - **Current Role**: Graduate Teaching Assistant at UNC Charlotte
