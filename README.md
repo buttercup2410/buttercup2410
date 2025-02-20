@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 - Contribute to open-source testing frameworks
 - Develop more accessible web and mobile applications
 
-## 📫 How to reach me: 
+## 📜 How to reach me: 
 - Connect with me on LinkedIn. Let's build something fabulous together!
 - [LinkedIn](https://www.linkedin.com/in/nishi-mewada)
 
